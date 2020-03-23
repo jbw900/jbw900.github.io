@@ -1,6 +1,5 @@
 # Introduction to High Performance Data (HPD)
 
-```markdown
 This is a course developed by Jingbo Wang about various aspects of high performance data mainly working on HPC.
 
 It includes three chapters
