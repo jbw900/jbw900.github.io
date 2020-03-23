@@ -2,7 +2,6 @@
 
 This is a course developed by Jingbo Wang about various aspects of high performance data mainly working on HPC.
 
-```markdown
 It includes three chapters
 
 # What is HPD?
